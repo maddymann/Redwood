@@ -8,6 +8,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TestFolder", "TestFolder", "{B0A945FE-9086-4BEA-94D5-48CE65B702F9}"
 	ProjectSection(SolutionItems) = preProject
 		..\..\..\..\Documents\Fourth Year\Fall Quarter\Management 3800\AirBnb.docx = ..\..\..\..\Documents\Fourth Year\Fall Quarter\Management 3800\AirBnb.docx
+		..\..\..\..\Desktop\DimDate.sql = ..\..\..\..\Desktop\DimDate.sql
 	EndProjectSection
 EndProject
 Global
